@@ -1,12 +1,10 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Paulo Humberto
+-Profissão: Técnico de Informatica
+-Cidade: Costa Rica MS
+-O que faz nas horas vaga: Gosto de viajar
+-Feedback sobre o curso Qualidade de Software: Estou aprendendo coisas novas muito bom
+-Feedback sobre a plataforma de estudo da EBAC: gosto da plataforma é obejtiva e pratica
 
 Obrigado!!!
-
-
